@@ -1,0 +1,44 @@
+# Unity generated files
+Library/
+Temp/
+obj/
+Builds/
+Build/
+UserSettings/
+
+# Visual Studio cache/options
+.vs/
+.vscode/
+
+# Rider cache/options
+.idea/
+*.sln.iml
+
+# JetBrains Rider
+.Rider/
+
+# Generated files
+*.csproj
+*.sln
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Log files
+*.log
+Logs/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+
+# Asset Store
+Asset Store/
