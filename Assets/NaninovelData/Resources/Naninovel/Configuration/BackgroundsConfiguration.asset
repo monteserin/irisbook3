@@ -64,7 +64,7 @@ MonoBehaviour:
           Culture=neutral, PublicKeyToken=null
       guid: 480c15d1-d1b5-4190-87d3-e48b9a146a29
       customData:
-        rid: 7782208466888687825
+        rid: 7782208488852160512
       Pivot: {x: 0.5, y: 0.5}
       PixelsPerUnit: 100
       FilterMode: 2
@@ -89,7 +89,7 @@ MonoBehaviour:
     RefIds:
     - rid: -2
       type: {class: , ns: , asm: }
-    - rid: 7782208466888687825
+    - rid: 7782208488852160512
       type: {class: PlaceholderBackgroundMetadata, ns: Naninovel, asm: Elringus.Naninovel.Runtime}
       data:
         PlaceholderAppearances:

@@ -1,2 +1,5 @@
-Paco.gnomo-riendo: Hi[back forest][bgm music.mp3 volume:1]
+[bgm music]
+[char Paco position:8]
+Paco.gnomo-riendo: Hi[back forest][char Paco position:8]
 Paco.gnomo: que pasa tron[back taberna.Blinds]
+¿qué quieres hacer?[addChoice "Ir a la disco" goto:Dessert][addChoice "Ir a otro lado" goto:Dessert]

@@ -1,22 +1,34 @@
 {
     "Assets": [
         {
-            "guid": "eafbe4cf774ec48f29db0fe25bbc89b3",
+            "guid": "588cefe4faa0448c89a80b34111717d0",
             "prefix": "Backgrounds/MainBackground",
-            "path": "desierto",
+            "path": "despertando-en-clase",
             "group": "Backgrounds/480c15d1-d1b5-4190-87d3-e48b9a146a29"
         },
         {
-            "guid": "122ee2a4970ed48e5a38452d1a63689e",
+            "guid": "d2ba9d34c42a840a893004c02523d3dd",
             "prefix": "Backgrounds/MainBackground",
-            "path": "forest",
+            "path": "durmiendo",
             "group": "Backgrounds/480c15d1-d1b5-4190-87d3-e48b9a146a29"
         },
         {
-            "guid": "3e20bb9570db343a4ad880433cdeafa7",
+            "guid": "f5ec76539d85f4151b914b9199ba44f4",
             "prefix": "Backgrounds/MainBackground",
-            "path": "taberna",
+            "path": "durmiendo-en-clase",
             "group": "Backgrounds/480c15d1-d1b5-4190-87d3-e48b9a146a29"
+        },
+        {
+            "guid": "97886ed5e75fc4b7f9d60cf0b9c2b1a3",
+            "prefix": "Characters/Monteerin",
+            "path": "indy",
+            "group": "Characters/a0fd39be-735b-4906-847d-63fb877de1ed"
+        },
+        {
+            "guid": "0a6539ff7d8554067844ece5a090d2e7",
+            "prefix": "Characters/Ninña",
+            "path": "niña",
+            "group": "Characters/9c3d8374-ae08-4436-9f03-25bef155f1e8"
         },
         {
             "guid": "f3b0ffa99676746ce804dd3c5fd6e680",
@@ -53,6 +65,24 @@
             "prefix": "ChoiceHandlers",
             "path": "ChatReply",
             "group": "ChoiceHandlers/37b3730e-2fb4-4eae-b5a4-9e6493af7c9d"
+        },
+        {
+            "guid": "fe4332f1f1e64565bac07b600a3d6dde",
+            "prefix": "Scripts",
+            "path": "Classroom",
+            "group": ""
+        },
+        {
+            "guid": "fe4332f1f1e64565bac07b600a3d6dde",
+            "prefix": "Scripts",
+            "path": "Dessert",
+            "group": ""
+        },
+        {
+            "guid": "fe4332f1f1e64565bac07b600a3d6dde",
+            "prefix": "Scripts",
+            "path": "Desset",
+            "group": ""
         },
         {
             "guid": "3d3c940f923654c06a83618b389e0597",
