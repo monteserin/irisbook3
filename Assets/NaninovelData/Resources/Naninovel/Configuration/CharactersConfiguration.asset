@@ -18,7 +18,7 @@ MonoBehaviour:
   SceneOrigin: {x: 0.5, y: 0}
   ZOffset: 50
   ZStep: 0.1
-  AutoArrangeOnAdd: 1
+  AutoArrangeOnAdd: 0
   ArrangeRange: {x: 0, y: 1}
   DefaultMetadata:
     Implementation: Naninovel.PlaceholderCharacter, Elringus.Naninovel.Runtime, Version=0.0.0.0,

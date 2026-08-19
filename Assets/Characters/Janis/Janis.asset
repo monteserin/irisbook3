@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 66cdced088f34be2bb8518f5e61f6417, type: 3}
-  m_Name: "Nin\xF1a"
+  m_Name: Janis
   m_EditorClassIdentifier: Elringus.Naninovel.Editor::Naninovel.CharacterRecord
   actorId: "Nin\xF1a"
   metadata:
