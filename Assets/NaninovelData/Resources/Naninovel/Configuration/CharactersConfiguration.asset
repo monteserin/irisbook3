@@ -117,7 +117,7 @@ MonoBehaviour:
       LinkedPrinter: 
       Poses: []
       Anchors: []
-    - Implementation: Naninovel.SpriteCharacter, Elringus.Naninovel.Runtime, Version=0.0.0.0,
+    - Implementation: Naninovel.GenericCharacter, Elringus.Naninovel.Runtime, Version=0.0.0.0,
         Culture=neutral, PublicKeyToken=null
       Loader:
         PathPrefix: Characters
@@ -128,7 +128,7 @@ MonoBehaviour:
           Culture=neutral, PublicKeyToken=null
       guid: a0fd39be-735b-4906-847d-63fb877de1ed
       customData:
-        rid: 7782208488852160516
+        rid: 7782208521873653761
       Pivot: {x: 0.5, y: 0}
       PixelsPerUnit: 100
       FilterMode: 2
@@ -243,7 +243,7 @@ MonoBehaviour:
         - Crying
         - Blushing
         - Determined
-    - rid: 7782208488852160516
+    - rid: 7782208488852160521
       type: {class: PlaceholderCharacterMetadata, ns: Naninovel, asm: Elringus.Naninovel.Runtime}
       data:
         PlaceholderAppearances:
@@ -266,7 +266,7 @@ MonoBehaviour:
         - Crying
         - Blushing
         - Determined
-    - rid: 7782208488852160521
+    - rid: 7782208521873653761
       type: {class: PlaceholderCharacterMetadata, ns: Naninovel, asm: Elringus.Naninovel.Runtime}
       data:
         PlaceholderAppearances:

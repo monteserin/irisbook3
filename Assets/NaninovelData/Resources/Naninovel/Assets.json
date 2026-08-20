@@ -19,36 +19,6 @@
             "group": "Backgrounds/480c15d1-d1b5-4190-87d3-e48b9a146a29"
         },
         {
-            "guid": "97886ed5e75fc4b7f9d60cf0b9c2b1a3",
-            "prefix": "Characters/Monteerin",
-            "path": "indy",
-            "group": "Characters/a0fd39be-735b-4906-847d-63fb877de1ed"
-        },
-        {
-            "guid": "ced738d40098e426eb4e2c3147defbc4",
-            "prefix": "Characters/Monteerin",
-            "path": "indy_mouth_A",
-            "group": "Characters/a0fd39be-735b-4906-847d-63fb877de1ed"
-        },
-        {
-            "guid": "97886ed5e75fc4b7f9d60cf0b9c2b1a3",
-            "prefix": "Characters/Monteerin",
-            "path": "indy_mouth_closed",
-            "group": "Characters/a0fd39be-735b-4906-847d-63fb877de1ed"
-        },
-        {
-            "guid": "57e48055ab1e74e89b429ebb2c9a4da7",
-            "prefix": "Characters/Monteerin",
-            "path": "indy_mouth_E",
-            "group": "Characters/a0fd39be-735b-4906-847d-63fb877de1ed"
-        },
-        {
-            "guid": "aa85a039216a14bfd84aa2bd25c5a3b5",
-            "prefix": "Characters/Monteerin",
-            "path": "indy_mouth_O",
-            "group": "Characters/a0fd39be-735b-4906-847d-63fb877de1ed"
-        },
-        {
             "guid": "0a6539ff7d8554067844ece5a090d2e7",
             "prefix": "Characters/Ninña",
             "path": "niña",
