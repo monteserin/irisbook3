@@ -7,12 +7,12 @@
 Monteerin.indy: [char Monteerin.indy scale:1,1 position:16,-6]
 [char Monteerin.indy scale:0.9,0.9,0.7 position:5,-6]
 Monteerin.indy: [back despertando-en-clase.Crossfade]
-… Señorita Janis!!
+… Señorita Janis!![lipSync Monteerin]
 Ninña.niña: [char Ninña.niña position:-5]
 Disculpe señor Monteserín
 Estabas durmiendo
 Imposible! se me caería la cara de ergüenza. Como mucho habré echado una cabezadita
 ¿Cómo es eso posible?
 Porque estaba soñando con el día en que usted sepa hacer novelas visuales con la punta del pijo
-Pues agárrate las enaguas guapa, porque ese día ha llegado!. 
+Pues agárrate las enaguas guapa, porque ese día ha llegado!.
 ummmm… esta forma de expresarme sería menos conflictiva si Janis no fuese una menor, pero entonces tendría que rehacer sus dibujos y toda la historia y llegados a este punto me da un poco de pereza….
